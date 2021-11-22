@@ -2,7 +2,8 @@
 
 
 
-
+	![](Pics/Nuraiza%20Maruf%20kyzy.png)
+    <img src="Pics/Nuraiza%20Maruf%20kyzy.png">
 ### Hi there 👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nuraiza.nuraiza)
 
