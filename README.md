@@ -2,11 +2,11 @@
 ### Hi there 👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nuraiza.nuraiza) [![GitHub followers](https://img.shields.io/github/followers/nuraiza.svg?style=social&label=Follow)](https://github.com/nuraiza?tab=followers)
 
-<!--
-**nuraiza/nuraiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
+
+
 **About me** 	:information_desk_person::
+
 I am Nuraiza from Kyrgyzstan, currently living in Warsaw, Poland. I am studying last semester at the Polish-Japanese Academy of Information Technology, my field of study is - Computer Science. At the moment I am actively looking for software engineer job position to gain experience and start my career path.
 
 
@@ -33,6 +33,7 @@ I am Nuraiza from Kyrgyzstan, currently living in Warsaw, Poland. I am studying 
 
 
 - 📫 How to reach me: 
+
 <a href="mailto:nuraiza.juraeva@gmail.com">![nuraiza.juraeva@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<https://www.linkedin.com/in/nuraiza/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
