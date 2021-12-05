@@ -7,7 +7,7 @@
 
 **About me** 	:information_desk_person::
 
-I am Nuraiza from Kyrgyzstan, currently living in Warsaw, Poland. I am studying last semester at the Polish-Japanese Academy of Information Technology, my field of study is - Computer Science. At the moment I am actively looking for software engineer job position to gain experience and start my career path.
+I am Nuraiza from Kyrgyzstan, currently living in Warsaw, Poland. I am studying the last semester at the Polish-Japanese Academy of Information Technology, my field of study is - Computer Science. At the moment I am actively developing my programming skills and looking for an opportunity to become a software engineer and start my career path.
 
 
 
